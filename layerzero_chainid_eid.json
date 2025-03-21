@@ -1,0 +1,581 @@
+[
+  {"Chain": "Abstract Mainnet", "Chain Id": "2741", "Endpoint Id": "30324"},
+  {"Chain": "Abstract Testnet", "Chain Id": "11124", "Endpoint Id": "40313"},
+  {"Chain": "Ape Mainnet", "Chain Id": "33139", "Endpoint Id": "30312"},
+  {
+    "Chain"      : "Apexfusionnexus TestnetRecently Added",
+    "Chain Id"   : "9070"                                 ,
+    "Endpoint Id": "40355"
+  },
+  {"Chain": "Aptos", "Chain Id": "1", "Endpoint Id": "30108"},
+  {"Chain": "Aptos Testnet", "Chain Id": "2", "Endpoint Id": "40108"},
+  {"Chain": "Arbitrum Mainnet", "Chain Id": "42161", "Endpoint Id": "30110"},
+  {
+    "Chain"      : "Arbitrum Nova Mainnet",
+    "Chain Id"   : "42170"                ,
+    "Endpoint Id": "30175"
+  },
+  {
+    "Chain"      : "Arbitrum Sepolia Testnet",
+    "Chain Id"   : "421614"                  ,
+    "Endpoint Id": "40231"
+  },
+  {"Chain": "Astar Mainnet", "Chain Id": "592", "Endpoint Id": "30210"},
+  {"Chain": "Astar Testnet", "Chain Id": "81", "Endpoint Id": "40210"},
+  {"Chain": "Astar zkEVM Mainnet", "Chain Id": "3776", "Endpoint Id": "30257"},
+  {
+    "Chain"      : "Aurora Testnet",
+    "Chain Id"   : "1313161555"    ,
+    "Endpoint Id": "40201"
+  },
+  {
+    "Chain"      : "Avalanche Fuji Testnet",
+    "Chain Id"   : "43113"                 ,
+    "Endpoint Id": "40106"
+  },
+  {"Chain": "Avalanche Mainnet", "Chain Id": "43114", "Endpoint Id": "30106"},
+  {
+    "Chain"      : "BNB Smart Chain Mainnet",
+    "Chain Id"   : "56"                     ,
+    "Endpoint Id": "30102"
+  },
+  {
+    "Chain"      : "BNB Smart Chain Testnet",
+    "Chain Id"   : "97"                     ,
+    "Endpoint Id": "40102"
+  },
+  {"Chain": "BOB Mainnet", "Chain Id": "60808", "Endpoint Id": "30279"},
+  {
+    "Chain"      : "Bahamut Horizen Testnet",
+    "Chain Id"   : "2552"                   ,
+    "Endpoint Id": "40347"
+  },
+  {
+    "Chain"      : "Bahamut MainnetRecently Added",
+    "Chain Id"   : "5165"                         ,
+    "Endpoint Id": "30363"
+  },
+  {"Chain": "Base Mainnet", "Chain Id": "8453", "Endpoint Id": "30184"},
+  {
+    "Chain"      : "Base Sepolia Testnet",
+    "Chain Id"   : "84532"               ,
+    "Endpoint Id": "40245"
+  },
+  {"Chain": "Beam Testnet", "Chain Id": "13337", "Endpoint Id": "40178"},
+  {
+    "Chain"      : "Bepolia TestnetRecently Added",
+    "Chain Id"   : "80069"                        ,
+    "Endpoint Id": "40371"
+  },
+  {
+    "Chain"      : "Berachain Bartio Testnet",
+    "Chain Id"   : "80084"                   ,
+    "Endpoint Id": "40291"
+  },
+  {
+    "Chain"      : "Berachain MainnetRecently Added",
+    "Chain Id"   : "80094"                          ,
+    "Endpoint Id": "30362"
+  },
+  {"Chain": "Bevm Mainnet", "Chain Id": "11501", "Endpoint Id": "30317"},
+  {"Chain": "Bevm Testnet", "Chain Id": "11503", "Endpoint Id": "40324"},
+  {"Chain": "Bitlayer Mainnet", "Chain Id": "200901", "Endpoint Id": "30314"},
+  {"Chain": "Bitlayer Testnet", "Chain Id": "200810", "Endpoint Id": "40320"},
+  {"Chain": "Blast Mainnet", "Chain Id": "81457", "Endpoint Id": "30243"},
+  {"Chain": "Blast Testnet", "Chain Id": "168587773", "Endpoint Id": "40243"},
+  {"Chain": "Ble Testnet", "Chain Id": "52085143", "Endpoint Id": "40330"},
+  {"Chain": "Botanix Testnet", "Chain Id": "3636", "Endpoint Id": "40281"},
+  {"Chain": "Bouncebit Mainnet", "Chain Id": "6001", "Endpoint Id": "30293"},
+  {"Chain": "Bouncebit Testnet", "Chain Id": "6000", "Endpoint Id": "40289"},
+  {"Chain": "Camp Testnet", "Chain Id": "325000", "Endpoint Id": "40295"},
+  {"Chain": "Canto Mainnet", "Chain Id": "7700", "Endpoint Id": "30159"},
+  {"Chain": "Canto Testnet", "Chain Id": "7701", "Endpoint Id": "40159"},
+  {
+    "Chain"      : "Celo Alfajores Testnet",
+    "Chain Id"   : "44787"                 ,
+    "Endpoint Id": "40125"
+  },
+  {"Chain": "Celo Mainnet", "Chain Id": "42220", "Endpoint Id": "30125"},
+  {"Chain": "Citrea Testnet", "Chain Id": "5115", "Endpoint Id": "40344"},
+  {"Chain": "Codex Mainnet", "Chain Id": "81224", "Endpoint Id": "30323"},
+  {
+    "Chain"      : "ConcreteRecently Added",
+    "Chain Id"   : "12739"                 ,
+    "Endpoint Id": "30366"
+  },
+  {"Chain": "Conflux Testnet", "Chain Id": "71", "Endpoint Id": "40211"},
+  {
+    "Chain"      : "Conflux eSpace Mainnet",
+    "Chain Id"   : "1030"                  ,
+    "Endpoint Id": "30212"
+  },
+  {"Chain": "CoreDAO Mainnet", "Chain Id": "1116", "Endpoint Id": "30153"},
+  {"Chain": "CoreDAO Testnet", "Chain Id": "1115", "Endpoint Id": "40153"},
+  {"Chain": "Corn Mainnet", "Chain Id": "21000000", "Endpoint Id": "30331"},
+  {"Chain": "Corn Testnet", "Chain Id": "21000001", "Endpoint Id": "40345"},
+  {"Chain": "Cronos EVM Mainnet", "Chain Id": "25", "Endpoint Id": "30359"},
+  {
+    "Chain"      : "Cronos zkEVM MainnetRecently Added",
+    "Chain Id"   : "388"                               ,
+    "Endpoint Id": "30360"
+  },
+  {"Chain": "Curtis Testnet", "Chain Id": "33111", "Endpoint Id": "40306"},
+  {"Chain": "Cyber Mainnet", "Chain Id": "7560", "Endpoint Id": "30283"},
+  {"Chain": "Cyber Testnet", "Chain Id": "111557560", "Endpoint Id": "40280"},
+  {"Chain": "DFK Chain", "Chain Id": "53935", "Endpoint Id": "30115"},
+  {"Chain": "DFK Chain Testnet", "Chain Id": "335", "Endpoint Id": "40115"},
+  {"Chain": "DM2 Verse Mainnet", "Chain Id": "68770", "Endpoint Id": "30315"},
+  {"Chain": "DOS Chain Mainnet", "Chain Id": "7979", "Endpoint Id": "30149"},
+  {"Chain": "DOS Testnet", "Chain Id": "3939", "Endpoint Id": "40286"},
+  {"Chain": "Degen Mainnet", "Chain Id": "666666666", "Endpoint Id": "30267"},
+  {
+    "Chain"      : "Dexalot Subnet Mainnet",
+    "Chain Id"   : "432204"                ,
+    "Endpoint Id": "30118"
+  },
+  {"Chain": "Dexalot Testnet", "Chain Id": "432201", "Endpoint Id": "40118"},
+  {"Chain": "Dm2verse Testnet", "Chain Id": "68775", "Endpoint Id": "40321"},
+  {"Chain": "EDU Chain Mainnet", "Chain Id": "41923", "Endpoint Id": "30328"},
+  {"Chain": "EVM on Flow Mainnet", "Chain Id": "747", "Endpoint Id": "30336"},
+  {
+    "Chain"      : "EVM on Flow TestnetRecently Added",
+    "Chain Id"   : "545"                              ,
+    "Endpoint Id": "40351"
+  },
+  {
+    "Chain"      : "Ethereum Holesky Testnet",
+    "Chain Id"   : "17000"                   ,
+    "Endpoint Id": "40217"
+  },
+  {"Chain": "Ethereum Mainnet", "Chain Id": "1", "Endpoint Id": "30101"},
+  {
+    "Chain"      : "Ethereum Sepolia Testnet",
+    "Chain Id"   : "11155111"                ,
+    "Endpoint Id": "40161"
+  },
+  {"Chain": null, "Chain Id": null, "Endpoint Id": null},
+  {
+    "Chain": "cautionLayerZero Testnet Endpoints use the real Mainnet pricefeed for cross-chain transfers. That means Ethereum Sepolia uses the real Ethereum gwei price. For testing EVM <> EVM transfers, it may be cheaper to use another EVM testnet with a cheaper cost of blockspace.",
+    "Chain Id": null,
+    "Endpoint Id": null
+  },
+  {"Chain": "Etherlink Mainnet", "Chain Id": "42793", "Endpoint Id": "30292"},
+  {"Chain": "Etherlink Testnet", "Chain Id": "128123", "Endpoint Id": "40239"},
+  {"Chain": "Fantom Mainnet", "Chain Id": "250", "Endpoint Id": "30112"},
+  {"Chain": "Fantom Testnet", "Chain Id": "4002", "Endpoint Id": "40112"},
+  {"Chain": "Fi Sepolia Testnet", "Chain Id": "18026", "Endpoint Id": "40301"},
+  {"Chain": "Flare Mainnet", "Chain Id": "14", "Endpoint Id": "30295"},
+  {"Chain": "Flare Testnet", "Chain Id": "114", "Endpoint Id": "40294"},
+  {"Chain": "Form Testnet", "Chain Id": "478", "Endpoint Id": "40270"},
+  {"Chain": "Fraxtal Mainnet", "Chain Id": "252", "Endpoint Id": "30255"},
+  {"Chain": "Fraxtal Testnet", "Chain Id": "2522", "Endpoint Id": "40255"},
+  {"Chain": "Fuse Mainnet", "Chain Id": "122", "Endpoint Id": "30138"},
+  {"Chain": "Fusespark Testnet", "Chain Id": "123", "Endpoint Id": "40138"},
+  {"Chain": "Gameswift Testnet", "Chain Id": "10888", "Endpoint Id": "40339"},
+  {"Chain": "Glue Mainnet", "Chain Id": "1300", "Endpoint Id": "30342"},
+  {"Chain": "Glue Testnet", "Chain Id": "1300", "Endpoint Id": "40296"},
+  {
+    "Chain"      : "Gnosis Chiado Testnet",
+    "Chain Id"   : "10200"                ,
+    "Endpoint Id": "40145"
+  },
+  {"Chain": "Gnosis Mainnet", "Chain Id": "100", "Endpoint Id": "30145"},
+  {
+    "Chain"      : "Goat MainnetRecently Added",
+    "Chain Id"   : "2345"                      ,
+    "Endpoint Id": "30361"
+  },
+  {
+    "Chain"      : "Goat TestnetRecently Added",
+    "Chain Id"   : "48816"                     ,
+    "Endpoint Id": "40356"
+  },
+  {"Chain": "Gravity Mainnet", "Chain Id": "1625", "Endpoint Id": "30294"},
+  {"Chain": "Gunzilla Testnet", "Chain Id": "49321", "Endpoint Id": "40236"},
+  {
+    "Chain"      : "Harmony Mainnet",
+    "Chain Id"   : "1666600000"     ,
+    "Endpoint Id": "30116"
+  },
+  {"Chain": "Hedera Mainnet", "Chain Id": "295", "Endpoint Id": "30316"},
+  {"Chain": "Hedera Testnet", "Chain Id": "296", "Endpoint Id": "40285"},
+  {"Chain": null, "Chain Id": null, "Endpoint Id": null},
+  {
+    "Chain": "cautionThe Hedera EVM has 8 decimals while their JSON RPC uses 18 decimals for `msg.value`, please take precaution when calling `quoteFee`",
+    "Chain Id": null,
+    "Endpoint Id": null
+  },
+  {"Chain": "Hemi Mainnet", "Chain Id": "43111", "Endpoint Id": "30329"},
+  {"Chain": "Hemi Testnet", "Chain Id": "743111", "Endpoint Id": "40338"},
+  {"Chain": "Homeverse Mainnet", "Chain Id": "19011", "Endpoint Id": "30265"},
+  {"Chain": null, "Chain Id": null, "Endpoint Id": null},
+  {
+    "Chain": "cautionThe Homeverse Endpoint uses an alternative ERC20 token instead of the native gas token for omnichain fees. You will need to modify your _payNative() function in OApp to handle ERC20 fees (see OFTAlt).",
+    "Chain Id": null,
+    "Endpoint Id": null
+  },
+  {"Chain": "Homeverse Testnet", "Chain Id": "40875", "Endpoint Id": "40265"},
+  {"Chain": null, "Chain Id": null, "Endpoint Id": null},
+  {
+    "Chain": "cautionThe Homeverse Endpoint uses an alternative ERC20 token instead of the native gas token for omnichain fees. You will need to modify your _payNative() function in OApp to handle ERC20 fees (see OFTAlt).",
+    "Chain Id": null,
+    "Endpoint Id": null
+  },
+  {"Chain": "Horizen EON Mainnet", "Chain Id": "7332", "Endpoint Id": "30215"},
+  {"Chain": "Hubble Mainnet", "Chain Id": "1992", "Endpoint Id": "30182"},
+  {
+    "Chain"      : "HyperEVM MainnetRecently Added",
+    "Chain Id"   : "999"                           ,
+    "Endpoint Id": "30367"
+  },
+  {
+    "Chain"      : "HyperEVM TestnetRecently Added",
+    "Chain Id"   : "998"                           ,
+    "Endpoint Id": "40362"
+  },
+  {
+    "Chain"      : "InclusiveLayer Testnet",
+    "Chain Id"   : "71461164656"           ,
+    "Endpoint Id": "40331"
+  },
+  {"Chain": "Initia Testnet", "Chain Id": "", "Endpoint Id": "40326"},
+  {"Chain": "Ink Mainnet", "Chain Id": "57073", "Endpoint Id": "30339"},
+  {
+    "Chain"      : "Ink TestnetRecently Added",
+    "Chain Id"   : "763373"                   ,
+    "Endpoint Id": "40358"
+  },
+  {"Chain": "Iota Mainnet", "Chain Id": "8822", "Endpoint Id": "30284"},
+  {"Chain": "Iota Testnet", "Chain Id": "1075", "Endpoint Id": "40307"},
+  {
+    "Chain"      : "Japan Open Chain Mainnet",
+    "Chain Id"   : "81"                      ,
+    "Endpoint Id": "30285"
+  },
+  {
+    "Chain"      : "Japan Open Chain Testnet",
+    "Chain Id"   : "10081"                   ,
+    "Endpoint Id": "40242"
+  },
+  {
+    "Chain"      : "Kaia Mainnet (formerly Klaytn)",
+    "Chain Id"   : "8217"                          ,
+    "Endpoint Id": "30150"
+  },
+  {
+    "Chain"      : "Kaia Testnet (formerly Klaytn)",
+    "Chain Id"   : "1001"                          ,
+    "Endpoint Id": "40150"
+  },
+  {"Chain": "Kava Mainnet", "Chain Id": "2222", "Endpoint Id": "30177"},
+  {"Chain": "Kava Testnet", "Chain Id": "2221", "Endpoint Id": "40172"},
+  {"Chain": "Lif3 Testnet", "Chain Id": "1811", "Endpoint Id": "40300"},
+  {"Chain": "Lightlink Mainnet", "Chain Id": "1890", "Endpoint Id": "30309"},
+  {"Chain": "Lightlink Testnet", "Chain Id": "1891", "Endpoint Id": "40309"},
+  {"Chain": "Linea Mainnet", "Chain Id": "59144", "Endpoint Id": "30183"},
+  {
+    "Chain"      : "Linea Sepolia Testnet",
+    "Chain Id"   : "59141"                ,
+    "Endpoint Id": "40287"
+  },
+  {"Chain": "Lisk Mainnet", "Chain Id": "1135", "Endpoint Id": "30321"},
+  {"Chain": "Lisk Testnet", "Chain Id": "4202", "Endpoint Id": "40327"},
+  {"Chain": "Loot Mainnet", "Chain Id": "5151706", "Endpoint Id": "30197"},
+  {"Chain": "Loot Testnet", "Chain Id": "9088912", "Endpoint Id": "40197"},
+  {"Chain": "Lyra Mainnet", "Chain Id": "957", "Endpoint Id": "30311"},
+  {"Chain": "Lyra Testnet", "Chain Id": "901", "Endpoint Id": "40308"},
+  {
+    "Chain"      : "Manta Pacific Mainnet",
+    "Chain Id"   : "169"                  ,
+    "Endpoint Id": "30217"
+  },
+  {
+    "Chain"      : "Manta Sepolia Testnet",
+    "Chain Id"   : "3441006"              ,
+    "Endpoint Id": "40272"
+  },
+  {"Chain": "Mantle Mainnet", "Chain Id": "5000", "Endpoint Id": "30181"},
+  {
+    "Chain"      : "Mantle Sepolia Testnet",
+    "Chain Id"   : "5003"                  ,
+    "Endpoint Id": "40246"
+  },
+  {
+    "Chain"      : "Memecoreformicarium TestnetRecently Added",
+    "Chain Id"   : "43521"                                    ,
+    "Endpoint Id": "40354"
+  },
+  {"Chain": "Meritcircle Mainnet", "Chain Id": "4337", "Endpoint Id": "30198"},
+  {"Chain": "Merlin Mainnet", "Chain Id": "4200", "Endpoint Id": "30266"},
+  {"Chain": "Merlin Testnet", "Chain Id": "686868", "Endpoint Id": "40264"},
+  {"Chain": "Meter Mainnet", "Chain Id": "82", "Endpoint Id": "30176"},
+  {"Chain": "Meter Testnet", "Chain Id": "83", "Endpoint Id": "40156"},
+  {"Chain": "Metis Mainnet", "Chain Id": "1088", "Endpoint Id": "30151"},
+  {
+    "Chain"      : "Metis Sepolia Testnet",
+    "Chain Id"   : "59902"                ,
+    "Endpoint Id": "40292"
+  },
+  {"Chain": "Mode Mainnet", "Chain Id": "34443", "Endpoint Id": "30260"},
+  {"Chain": "Mode Testnet", "Chain Id": "919", "Endpoint Id": "40260"},
+  {"Chain": "Moksha Testnet", "Chain Id": "14800", "Endpoint Id": "40342"},
+  {
+    "Chain"      : "Monad TestnetRecently Added",
+    "Chain Id"   : "10143"                      ,
+    "Endpoint Id": "40204"
+  },
+  {
+    "Chain"      : "Moonbase Alpha Testnet",
+    "Chain Id"   : "1287"                  ,
+    "Endpoint Id": "40126"
+  },
+  {"Chain": "Moonbeam Mainnet", "Chain Id": "1284", "Endpoint Id": "30126"},
+  {"Chain": "Moonriver Mainnet", "Chain Id": "1285", "Endpoint Id": "30167"},
+  {"Chain": "Morph Mainnet", "Chain Id": "2818", "Endpoint Id": "30322"},
+  {"Chain": "Morph Testnet", "Chain Id": "2810", "Endpoint Id": "40322"},
+  {"Chain": "Movement Mainnet", "Chain Id": "", "Endpoint Id": "30325"},
+  {"Chain": "Movement Testnet", "Chain Id": "", "Endpoint Id": "40325"},
+  {
+    "Chain"      : "Near Aurora Mainnet",
+    "Chain Id"   : "1313161554"         ,
+    "Endpoint Id": "30211"
+  },
+  {
+    "Chain"      : "Nibiru MainnetRecently Added",
+    "Chain Id"   : "6900"                        ,
+    "Endpoint Id": "30369"
+  },
+  {
+    "Chain"      : "Nibiru TestnetRecently Added",
+    "Chain Id"   : "7210"                        ,
+    "Endpoint Id": "40369"
+  },
+  {"Chain": "OKX Mainnet", "Chain Id": "66", "Endpoint Id": "30155"},
+  {"Chain": "OKX Testnet", "Chain Id": "65", "Endpoint Id": "40155"},
+  {"Chain": "Odyssey Testnet", "Chain Id": "1516", "Endpoint Id": "40340"},
+  {"Chain": "Olive Testnet", "Chain Id": "8101902", "Endpoint Id": "40277"},
+  {
+    "Chain"      : "Opencampus Testnet",
+    "Chain Id"   : "656476"            ,
+    "Endpoint Id": "40297"
+  },
+  {"Chain": "Optimism Mainnet", "Chain Id": "10", "Endpoint Id": "30111"},
+  {
+    "Chain"      : "Optimism Sepolia",
+    "Chain Id"   : "11155420"        ,
+    "Endpoint Id": "40232"
+  },
+  {"Chain": "Orderly Mainnet", "Chain Id": "291", "Endpoint Id": "30213"},
+  {
+    "Chain"      : "Orderly Sepolia Testnet",
+    "Chain Id"   : "4460"                   ,
+    "Endpoint Id": "40200"
+  },
+  {
+    "Chain"      : "Otherworld Space Mainnet",
+    "Chain Id"   : "8227"                    ,
+    "Endpoint Id": "30341"
+  },
+  {"Chain": "Otherworld Testnet", "Chain Id": "48795", "Endpoint Id": "40337"},
+  {"Chain": "Ozean Testnet", "Chain Id": "7849306", "Endpoint Id": "40323"},
+  {"Chain": "Peaq Mainnet", "Chain Id": "3338", "Endpoint Id": "30302"},
+  {"Chain": "Peaq Testnet", "Chain Id": "9990", "Endpoint Id": "40299"},
+  {
+    "Chain"      : "Plume MainnetRecently Added",
+    "Chain Id"   : "98866"                      ,
+    "Endpoint Id": "30370"
+  },
+  {"Chain": "Plume Testnet", "Chain Id": "18230", "Endpoint Id": "40329"},
+  {
+    "Chain"      : "Polygon Amoy Testnet",
+    "Chain Id"   : "80002"               ,
+    "Endpoint Id": "40267"
+  },
+  {"Chain": "Polygon Mainnet", "Chain Id": "137", "Endpoint Id": "30109"},
+  {
+    "Chain"      : "Polygon zkEVM Mainnet",
+    "Chain Id"   : "1101"                 ,
+    "Endpoint Id": "30158"
+  },
+  {
+    "Chain"      : "Polygon zkEVM Sepolia Testnet",
+    "Chain Id"   : "2442"                         ,
+    "Endpoint Id": "40247"
+  },
+  {
+    "Chain"      : "Rari Chain Mainnet",
+    "Chain Id"   : "1380012617"        ,
+    "Endpoint Id": "30235"
+  },
+  {
+    "Chain"      : "Rarible Testnet",
+    "Chain Id"   : "1918988905"     ,
+    "Endpoint Id": "40235"
+  },
+  {"Chain": "Reya Mainnet", "Chain Id": "1729", "Endpoint Id": "30313"},
+  {"Chain": "Reya Testnet", "Chain Id": "89346162", "Endpoint Id": "40319"},
+  {"Chain": "Rootstock Mainnet", "Chain Id": "30", "Endpoint Id": "30333"},
+  {
+    "Chain"      : "Rootstock TestnetRecently Added",
+    "Chain Id"   : "31"                             ,
+    "Endpoint Id": "40350"
+  },
+  {"Chain": "Sanko Mainnet", "Chain Id": "1996", "Endpoint Id": "30278"},
+  {"Chain": "Sanko Testnet", "Chain Id": "1992", "Endpoint Id": "40278"},
+  {"Chain": "Scroll Mainnet", "Chain Id": "534352", "Endpoint Id": "30214"},
+  {
+    "Chain"      : "Scroll Sepolia Testnet",
+    "Chain Id"   : "534351"                ,
+    "Endpoint Id": "40170"
+  },
+  {"Chain": "Sei Devnet", "Chain Id": "713715", "Endpoint Id": "40258"},
+  {"Chain": "Sei Mainnet", "Chain Id": "1329", "Endpoint Id": "30280"},
+  {"Chain": "Shimmer Mainnet", "Chain Id": "148", "Endpoint Id": "30230"},
+  {"Chain": null, "Chain Id": null, "Endpoint Id": null},
+  {
+    "Chain": "cautionShimmer, while being EVM-like, uses a different approach to gas token decimals, which could lead to specific implementations and adjustments in your gas calculations and transactions.",
+    "Chain Id": null,
+    "Endpoint Id": null
+  },
+  {"Chain": "Skale Mainnet", "Chain Id": "2046399126", "Endpoint Id": "30273"},
+  {"Chain": null, "Chain Id": null, "Endpoint Id": null},
+  {
+    "Chain": "cautionThe Skale Endpoint uses an alternative ERC20 token instead of the native gas token for omnichain fees. You will need to modify your _payNative() function in OApp to handle ERC20 fees (see OFTAlt).",
+    "Chain Id": null,
+    "Endpoint Id": null
+  },
+  {"Chain": "Skale Testnet", "Chain Id": "1444673419", "Endpoint Id": "40273"},
+  {"Chain": null, "Chain Id": null, "Endpoint Id": null},
+  {
+    "Chain": "cautionThe Skale Endpoint uses an alternative ERC20 token instead of the native gas token for omnichain fees.  You will need to modify your _payNative() function in OApp to handle ERC20 fees (see OFTAlt).",
+    "Chain Id": null,
+    "Endpoint Id": null
+  },
+  {"Chain": "Solana Devnet", "Chain Id": "103", "Endpoint Id": "40168"},
+  {"Chain": "Solana Mainnet", "Chain Id": "101", "Endpoint Id": "30168"},
+  {"Chain": "Soneium Mainnet", "Chain Id": "1868", "Endpoint Id": "30340"},
+  {
+    "Chain"      : "Soneium Minato Testnet",
+    "Chain Id"   : "1946"                  ,
+    "Endpoint Id": "40334"
+  },
+  {
+    "Chain"      : "Sonic Blaze Testnet",
+    "Chain Id"   : "57054"              ,
+    "Endpoint Id": "40349"
+  },
+  {"Chain": "Sonic Mainnet", "Chain Id": "146", "Endpoint Id": "30332"},
+  {"Chain": "Sophon Mainnet", "Chain Id": "50104", "Endpoint Id": "30334"},
+  {"Chain": "Sophon Testnet", "Chain Id": "531050104", "Endpoint Id": "40341"},
+  {
+    "Chain"      : "Story MainnetRecently Added",
+    "Chain Id"   : "1514"                       ,
+    "Endpoint Id": "30364"
+  },
+  {
+    "Chain"      : "Superposition Mainnet",
+    "Chain Id"   : "55244"                ,
+    "Endpoint Id": "30327"
+  },
+  {
+    "Chain"      : "Superposition Testnet",
+    "Chain Id"   : "98985"                ,
+    "Endpoint Id": "40336"
+  },
+  {"Chain": "Swell Mainnet", "Chain Id": "1923", "Endpoint Id": "30335"},
+  {
+    "Chain"      : "Swell TestnetRecently Added",
+    "Chain Id"   : "1924"                       ,
+    "Endpoint Id": "40353"
+  },
+  {"Chain": "TON Mainnet", "Chain Id": "", "Endpoint Id": "30343"},
+  {"Chain": "Taiko Mainnet", "Chain Id": "167000", "Endpoint Id": "30290"},
+  {"Chain": "Taiko Testnet", "Chain Id": "167009", "Endpoint Id": "40274"},
+  {"Chain": "Tangible Testnet", "Chain Id": "", "Endpoint Id": "40252"},
+  {"Chain": "Telos Testnet", "Chain Id": "41", "Endpoint Id": "40199"},
+  {"Chain": "TelosEVM Mainnet", "Chain Id": "40", "Endpoint Id": "30199"},
+  {"Chain": "Tenet Mainnet", "Chain Id": "1559", "Endpoint Id": "30173"},
+  {"Chain": "Tenet Testnet", "Chain Id": "155", "Endpoint Id": "40173"},
+  {"Chain": "Tiltyard Mainnet", "Chain Id": "710420", "Endpoint Id": "30238"},
+  {"Chain": "Treasure Testnet", "Chain Id": "978658", "Endpoint Id": "40348"},
+  {"Chain": "Tron Mainnet", "Chain Id": "728126428", "Endpoint Id": "30420"},
+  {"Chain": null, "Chain Id": null, "Endpoint Id": null},
+  {
+    "Chain": "cautionTRX, the native token of Tron, uses 6 decimals, which affects how transactions and gas fees are calculated and can require specific handling in smart contracts and dApps.",
+    "Chain Id": null,
+    "Endpoint Id": null
+  },
+  {"Chain": "Tron Testnet", "Chain Id": "2494104990", "Endpoint Id": "40420"},
+  {"Chain": null, "Chain Id": null, "Endpoint Id": null},
+  {
+    "Chain": "cautionTRX, the native token of Tron, uses 6 decimals, which affects how transactions and gas fees are calculated and can require specific handling in smart contracts and dApps.",
+    "Chain Id": null,
+    "Endpoint Id": null
+  },
+  {"Chain": "Unichain Mainnet", "Chain Id": "130", "Endpoint Id": "30320"},
+  {"Chain": "Unichain Testnet", "Chain Id": "1301", "Endpoint Id": "40333"},
+  {"Chain": "Unreal Testnet", "Chain Id": "18233", "Endpoint Id": "40262"},
+  {"Chain": "Vana Mainnet", "Chain Id": "1480", "Endpoint Id": "30330"},
+  {"Chain": "Vanguard Testnet", "Chain Id": "78600", "Endpoint Id": "40298"},
+  {"Chain": "Viction Mainnet", "Chain Id": "88", "Endpoint Id": "30196"},
+  {"Chain": "Viction Testnet", "Chain Id": "89", "Endpoint Id": "40196"},
+  {"Chain": "Worldchain Mainnet", "Chain Id": "480", "Endpoint Id": "30319"},
+  {"Chain": "Worldcoin Testnet", "Chain Id": "4801", "Endpoint Id": "40335"},
+  {"Chain": "X Layer Mainnet", "Chain Id": "196", "Endpoint Id": "30274"},
+  {"Chain": "X Layer Testnet", "Chain Id": "195", "Endpoint Id": "40269"},
+  {"Chain": "XChain Mainnet", "Chain Id": "94524", "Endpoint Id": "30291"},
+  {"Chain": "XChain Testnet", "Chain Id": "64002", "Endpoint Id": "40282"},
+  {
+    "Chain"      : "XDC MainnetRecently Added",
+    "Chain Id"   : "50"                       ,
+    "Endpoint Id": "30365"
+  },
+  {"Chain": "XPLA Mainnet", "Chain Id": "37", "Endpoint Id": "30216"},
+  {"Chain": "XPLA Testnet", "Chain Id": "47", "Endpoint Id": "40216"},
+  {"Chain": "Xai Mainnet", "Chain Id": "660279", "Endpoint Id": "30236"},
+  {"Chain": "Xai Testnet", "Chain Id": "37714555429", "Endpoint Id": "40251"},
+  {"Chain": "Zircuit Mainnet", "Chain Id": "48900", "Endpoint Id": "30303"},
+  {"Chain": "Zircuit Testnet", "Chain Id": "48899", "Endpoint Id": "40275"},
+  {"Chain": "Zora Mainnet", "Chain Id": "7777777", "Endpoint Id": "30195"},
+  {
+    "Chain"      : "Zora Sepolia Testnet",
+    "Chain Id"   : "999999999"           ,
+    "Endpoint Id": "40249"
+  },
+  {"Chain": "inEVM Mainnet", "Chain Id": "2525", "Endpoint Id": "30234"},
+  {"Chain": "opBNB Mainnet", "Chain Id": "204", "Endpoint Id": "30202"},
+  {"Chain": "opBNB Testnet", "Chain Id": "5611", "Endpoint Id": "40202"},
+  {"Chain": "re.al Mainnet", "Chain Id": "111188", "Endpoint Id": "30237"},
+  {"Chain": "zkLink Mainnet", "Chain Id": "810180", "Endpoint Id": "30301"},
+  {"Chain": null, "Chain Id": null, "Endpoint Id": null},
+  {
+    "Chain": "cautionzkLink uses a unique compiler designed for zero-knowledge proof generation which generates different bytecode than the standard Solidity compiler (solc).",
+    "Chain Id": null,
+    "Endpoint Id": null
+  },
+  {"Chain": "zkLink Testnet", "Chain Id": "810181", "Endpoint Id": "40283"},
+  {"Chain": null, "Chain Id": null, "Endpoint Id": null},
+  {
+    "Chain": "cautionzkLink uses a unique compiler designed for zero-knowledge proof generation which generates different bytecode than the standard Solidity compiler (solc).",
+    "Chain Id": null,
+    "Endpoint Id": null
+  },
+  {"Chain": "zkSync Era Mainnet", "Chain Id": "324", "Endpoint Id": "30165"},
+  {"Chain": null, "Chain Id": null, "Endpoint Id": null},
+  {
+    "Chain": "cautionzkSync uses its own compiler called zkSync-solc, which generates different bytecode than the standard Solidity compiler (solc).",
+    "Chain Id": null,
+    "Endpoint Id": null
+  },
+  {
+    "Chain"      : "zkSync Sepolia Testnet",
+    "Chain Id"   : "300"                   ,
+    "Endpoint Id": "40305"
+  },
+  {"Chain": null, "Chain Id": null, "Endpoint Id": null},
+  {
+    "Chain": "cautionzkSync uses its own compiler called zkSync-solc, which generates different bytecode than the standard Solidity compiler (solc).",
+    "Chain Id": null,
+    "Endpoint Id": null
+  }
+]
